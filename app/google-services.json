@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480888186760",
+    "project_id": "appvacunas-4be22",
+    "storage_bucket": "appvacunas-4be22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480888186760:android:8dd7c1c533318f39a0fc3d",
+        "android_client_info": {
+          "package_name": "com.example.appvacunas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480888186760-rsbs4cbvoguh6gi79nqdafvesg8ucibt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-CoS3xHO44tTcI7rDRQb-_Zrc55AGrCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480888186760-rsbs4cbvoguh6gi79nqdafvesg8ucibt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
